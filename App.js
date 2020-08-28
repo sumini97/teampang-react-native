@@ -32,7 +32,7 @@ const App: () => React$Node = () => {
         aspectRatio: 0.22,
         resizeMode: 'contain'
       }}
-        source={require('./assets/logo.png')} />
+        source={require('./src/assets/img/app_icon.png')} />
     </View>
   );
 };
